@@ -1,0 +1,107 @@
+.body {
+	background-color: #aeaeae;
+}
+
+.main_block {
+	margin: auto;
+	margin-top: 50px;
+	width: 750px;
+	min-height: 650px;
+	background: #ffffff;
+	border: solid 4px #4d59a1;
+	border-radius: 20px 20px 20px 20px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.main_title {
+	text-align: center;
+	border-bottom: solid 4px #4d59a1;
+}
+
+.the_title {
+	position: center;
+}
+
+.question_container {
+	font-family: Verdana;
+	font-size: 14pt;
+	border-bottom: solid 4px #4d59a1;
+	min-height: 250px;
+	display: table;
+}
+
+.answer_container {
+	font-family: Verdana;
+	font-size: 14pt;
+	border-bottom: solid 4px #4d59a1;
+	min-height: 250px;
+}
+
+.text_question {
+	float: left;
+	width: 135px;
+	text-align: right;
+	padding-right: 15px;
+}
+
+.question {
+	float: right;
+	width: 585px;
+	padding-right: 15px;
+	padding-bottom: 25px;
+}
+
+.text_answer {
+	float: left;
+	width: 135px;
+	text-align: right;
+	padding-right: 15px;
+}
+
+.answer {
+	float: right;
+	width: 585px;
+	padding-right: 15px;
+	padding-bottom: 25px;
+}
+
+
+Button.butt {
+	width: 450px;
+	height: 60px;
+	background-color: #4d59a1;
+	border-radius: 5px 5px 5px 5px;
+	text-align: center;
+	color: #efefef;
+	font-size: 14pt;
+	font-family: Verdana;
+}
+
+.settings {
+	font-family: Verdana;
+	font-size: 14pt;
+	float: left;
+	margin-left: 40px;
+	padding-right: 20px;
+}
+
+.butt {
+	margin-right: auto;
+        margin-left: auto;
+}
+
+.credits_container {
+	font-family: Verdana;
+	font-size: 14pt;
+	vertical-align: bottom;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 25px;
+	text-align: center;
+}
+
+
+
+h1 {
+	font: bold 20pt Verdana;
+}
